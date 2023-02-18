@@ -2,15 +2,17 @@
 
 In the last 20 years, the technology surrounding the Democratic ecosystem in America has dramatically changed how political parties and advocacy groups elect leaders at all levels of government. Every four-year Presidential cycle elevates new talent across government, campaigns, and technology. 
 
-Democratic politics does not have an open resource to encourage people in politics to join democratic tech or tech to join democratic tech. Only recently was an open-source package, Parsons, created by those at The Movement Cooperative. Most intelligence sharing is usually membership-based information, or a nonprofit charges an engineer to attempt to teach others or hire a consultant shop at a price. None of these things are bad. There are multiple ways of learning. Still, one underutilized learning method comes from reading books and working through problems like R for Data Science or Advance R, where the readers learn about how things work and test with a sample data set as they read on. 
+Democratic politics does not have an open resource to encourage people in politics to join democratic tech or tech to join democratic tech. Only recently was an open-source package, Parsons, developed in 2018(?) by those at The Movement Cooperative, spurred to build open source tech collaboration. 
+
+Most intelligence sharing is usually membership-based information, or a nonprofit charges an engineer to attempt to teach others or hire a consultant shop at a price. None of these things are bad. There are multiple ways of learning. Still, one underutilized learning method comes from reading books and working through problems like R for Data Science or Advance R, where the readers learn about how things work and test with a sample data set as they read on. 
 
 There are growing opportunities where this is changing; this book is to openly share personal experiences of gaining general interdisciplinary knowledge, technical skills, and tools that have been helpful.
 
-This site will compile an opinionated framework for analysis, data science, data direction, and organizing for people to utilize to further democratic wins up and down the ticket.  
+This site will compile an opinionated framework for analysis, data science, data direction, and organizing for people to utilize to further democratic wins up and down the ticket.
 
-Compiling this resource as a Quarto Book with chapters should encourage others who want to contribute directly to it to open source their thoughts to the community as a whole. Therefore we can have binders filled with more pathways to success for future generations of compassionate, democratic data leaders.
+Compiling this resource as a Quarto Book with chapters should encourage others who want to contribute directly to it to open source their thoughts to the community as a whole or inspire them to create books of their own. Therefore we can have binders filled with more pathways to success for future generations of compassionate, democratic data leaders across the world.
 
-Utilizing the R open-source community as an inspiration, the approach will be to simulate two campaigns—one local campaign within a county and another at a presidential level. The local campaign chapters include beginner-level data and analysis skills, techniques, and workflows for a Data Director. The Presidential campaign chapters include sophisticated road mapping, team management, and skills required to handle data flows in and out of multiple states.
+With the R open-source community and the tidyverse as inspiration, the approach will be to simulate two campaigns—one local campaign within a county and another at a presidential level. The local campaign chapters include beginner-level data and analysis skills, techniques, and workflows for a Data Director. The Presidential campaign chapters include sophisticated road mapping, team management, and skills required to handle data flows in and out of multiple states.
 
 
 
