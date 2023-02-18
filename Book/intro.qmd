@@ -1,0 +1,19 @@
+# Introduction
+
+In the last 20 years, the technology surrounding the Democratic ecosystem in America has dramatically changed how political parties and advocacy groups elect Presidents down to City Council Members. Every four year Presdiential cycle elevates new talent across government, camapigns, and technology. 
+
+ Democratic politics doesn't necissariliy have an open resource or encourage people in technology to share openly. It's usually membership based information or a nonprofit charges an engineer to attempt to teach others. Or you open a consultancy shop for a price. None of these things are bad. I have just found in my experience of learning I found success reading books and working through problems like R for Data Science or Advance R. 
+
+ There are growing opportunities where this is changing but I want to openly share general interdisciplenary knowledge, technical skills, and tools that have been helpful to my work. 
+
+In this site (a quarto book) I will compile my opinions on analysis, data science, and organizing for people to utilize to further democratic wins up and down the ticket. 
+
+I am doing it in a blog style because I hope, as a resource, it is most benefical compiled together as it's own entity. one that it encourages others who want to contribute directly to it to open source their thoughts to the community as a whole.
+
+And with the R open source community as an inspiration, my approach will be to simulate two campaigns. One local campaign in Columbus, Ohio. Anothere examining multiple states in a campaign for President.
+
+
+
+
+
+
